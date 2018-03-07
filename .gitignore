@@ -1,0 +1,13 @@
+# macOS Finder turds
+**/.DS_Store
+
+# Emacs turds
+**/*.*~
+
+# JetBrains PyCharm
+# These files change too much to check in:
+**/.idea/workspace.xml
+**/.idea/misc.xml
+# Also doesn't look like it should be checked in:
+**/.idea/dataSources.local.xml
+**/__pycache__/
